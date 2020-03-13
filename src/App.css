@@ -5,7 +5,7 @@
   text-align: center;
   height: 100vh;
   font-family: 'Ubuntu', sans-serif;
-  color: white;
+  color: black;
   background: #360033;  /* fallback for old browsers */
   background: -webkit-linear-gradient(to top, #360033, #0b8793,);  /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(to top, #360033, #0b8793); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */

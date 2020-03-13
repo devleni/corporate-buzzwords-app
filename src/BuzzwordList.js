@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import axios from "axios";
+import "./BuzzwordList.css";
 
 class BuzzwordList extends Component {
   static defaultProps = {
@@ -20,10 +21,12 @@ class BuzzwordList extends Component {
   render() {
     return (
       <div className="BuzzwordList">
+        <img src="https://image.flaticon.com/icons/svg/475/475048.svg"></img>
         <h1>Corporate Buzzwords</h1>
         <p>Use this bleeding-edge app to maximize your performance in corporate meetings.</p>
+        <button className="BuzzwordListNewPhrases">New Phrases</button>
         <hr />
-        <div className="BuzzwordList-phrases">
+        <div className="BuzzwordListDisplay">
           {this.state.phrases.map(phrase => (
             <div>{phrase}</div>
           ))}

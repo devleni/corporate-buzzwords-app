@@ -21,14 +21,13 @@ class BuzzwordList extends Component {
   render() {
     return (
       <div className="BuzzwordList">
-        <img src="https://image.flaticon.com/icons/svg/475/475048.svg"></img>
+        {/* <img src="https://image.flaticon.com/icons/svg/475/475048.svg" alt="logo"></img> */}
         <h1>Corporate Buzzwords</h1>
-        <p>Use this bleeding-edge app to maximize your performance in corporate meetings.</p>
-        <button className="BuzzwordListNewPhrases">New Phrases</button>
-        <hr />
+        <p>Use phrases below to maximize your performance in corporate social situations.</p>
+        {/* <button className="BuzzwordListNewPhrases">New Phrases</button> */}
         <div className="BuzzwordListDisplay">
           {this.state.phrases.map(phrase => (
-            <div>{phrase}</div>
+            <div className="BuzzwordListPhrase">{phrase}</div>
           ))}
         </div>
       </div>

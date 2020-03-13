@@ -1,1 +1,1 @@
-Use this bleeding-edge app to maximize your performance in corporate meetings.
+A bleeding-edge app to boost your corporate speech skill to the limit. It uses React and an API call via Axios.

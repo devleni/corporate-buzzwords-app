@@ -21,5 +21,20 @@ h1{
 }
 
 button{
+  border-color: black;
+  border-style: solid;
+  border-radius: 25px;
+  font-weight: bold;
   text-transform: uppercase;
+  padding: 0.5rem;
+  margin: 1rem;
+  -webkit-box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.75);
+  box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.75);
+}
+
+button:hover{
+  color: white;
+  background: gray;
+  cursor: pointer;
 }

@@ -1,1 +1,1 @@
-A bleeding-edge app to boost your corporate speech skill to the limit. It uses React and an API call via Axios.
+A bleeding-edge app to boost your corporate speech skills to the limit. It uses React and an API call via Axios.

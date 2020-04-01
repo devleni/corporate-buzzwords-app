@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8aef84e758f5288308fa9fb63e0532fb",
+    "revision": "f15167f68c603621136fdd7a2fd69000",
     "url": "/corporate-buzzwords-app/index.html"
   },
   {
-    "revision": "f41aceaa76f1c42b3d95",
-    "url": "/corporate-buzzwords-app/static/css/main.f2c9a7e6.chunk.css"
+    "revision": "3cb6e95dab48bbc7f9b4",
+    "url": "/corporate-buzzwords-app/static/css/main.e87b077d.chunk.css"
   },
   {
     "revision": "8af03616691367ff66dd",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/corporate-buzzwords-app/static/js/2.32281202.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f41aceaa76f1c42b3d95",
-    "url": "/corporate-buzzwords-app/static/js/main.fb834b5e.chunk.js"
+    "revision": "3cb6e95dab48bbc7f9b4",
+    "url": "/corporate-buzzwords-app/static/js/main.93d0b62e.chunk.js"
   },
   {
     "revision": "b447e653256335da0422",
